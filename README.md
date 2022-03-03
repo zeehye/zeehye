@@ -6,7 +6,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeehye&count_bg=%236667AB&title_bg=%239E9E9E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=Roblox&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobe-#FF0000?style=flat-square&logo=Adobe&logoColor=white"/></a>
 
 <!---
 zeehye/zeehye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
